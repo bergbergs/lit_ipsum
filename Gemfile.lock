@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    lit_ipsum (0.1.2)
+    lit_ipsum (0.9.0)
 
 GEM
   remote: https://rubygems.org/
