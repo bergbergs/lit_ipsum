@@ -4,17 +4,14 @@ module LitIpsum
   class Doyle
     class SherlockHolmes < Base
       FILENAME = 'texts/doyle/the-adventures-of-sherlock-holmes.txt'
-      attr_reader :size
 
       class << self
-        class << self
-          def sentences(count, max_sentence = 0, filename = FILENAME)
-            super(count, max_sentence, filename)
-          end
+        def sentences(count, max_sentence = 0, filename = FILENAME)
+          super(count, max_sentence, filename)
+        end
 
-          def words(count, filename = FILENAME)
-            super(count, filename)
-          end
+        def words(count, filename = FILENAME)
+          super(count, filename)
         end
       end
     end
