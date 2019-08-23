@@ -22,6 +22,8 @@ module LitIpsum
 
       def sentences(count, max_sentence, filename)
         source = max_sentence.zero? ? get_text(filename) : get_text(filename).select { |sentence| sentence.length <= max_sentence }
+        raise Error, "Unable to find sentences of length <= #{max_sentence}." if source.empty?
+
         obj = []
         count.times do
           sentence = source.sample
