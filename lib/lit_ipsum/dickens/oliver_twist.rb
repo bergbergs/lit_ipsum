@@ -3,7 +3,7 @@
 module LitIpsum
   class Dickens
     class OliverTwist < Base
-      FILENAME = 'texts/dickens/oliver-twist.txt'
+      FILENAME = File.join(File.dirname(File.expand_path(__FILE__)), '../../texts/dickens/oliver-twist.txt')
 
       class << self
         def sentences(count, max_sentence = 0, filename = FILENAME)
