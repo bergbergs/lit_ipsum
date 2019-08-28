@@ -1,17 +1,17 @@
-#Alice's Adventures in Wonderland
+# Alice's Adventures in Wonderland
 
-#ALICE'S ADVENTURES IN WONDERLAND
+# ALICE'S ADVENTURES IN WONDERLAND
 
-#Lewis Carroll
+# Lewis Carroll
 
-#THE MILLENNIUM FULCRUM EDITION 3.0
-
-
+# THE MILLENNIUM FULCRUM EDITION 3.0
 
 
-#CHAPTER I
 
-Down the Rabbit-Hole
+
+# CHAPTER I
+
+# Down the Rabbit-Hole
 
 
   Alice was beginning to get very tired of sitting by her sister
@@ -174,11 +174,11 @@ of mixed flavour of cherry-tart, custard, pine-apple, roast
 turkey, toffee, and hot buttered toast,) she very soon finished
 it off.
 
-     *       *       *       *       *       *       *
+#      *       *       *       *       *       *       *
 
-         *       *       *       *       *       *
+#          *       *       *       *       *       *
 
-     *       *       *       *       *       *       *
+#      *       *       *       *       *       *       *
 
   `What a curious feeling!' said Alice; `I must be shutting up
 like a telescope.'
@@ -235,18 +235,18 @@ common way.
 
   So she set to work, and very soon finished off the cake.
 
-     *       *       *       *       *       *       *
+#     *       *       *       *       *       *       *
 
-         *       *       *       *       *       *
+#         *       *       *       *       *       *
 
-     *       *       *       *       *       *       *
-
-
+#     *       *       *       *       *       *       *
 
 
-                           CHAPTER II
 
-                        The Pool of Tears
+
+#                            CHAPTER II
+
+#                         The Pool of Tears
 
 
   `Curiouser and curiouser!' cried Alice (she was so much
@@ -468,9 +468,9 @@ shore.
 
 
 
-                           CHAPTER III
+#                            CHAPTER III
 
-                  A Caucus-Race and a Long Tale
+#                   A Caucus-Race and a Long Tale
 
 
   They were indeed a queer-looking party that assembled on the
@@ -728,9 +728,9 @@ finish his story.
 
 
 
-                           CHAPTER IV
+#                            CHAPTER IV
 
-                The Rabbit Sends in a Little Bill
+#                 The Rabbit Sends in a Little Bill
 
 
   It was the White Rabbit, trotting slowly back again, and
@@ -1014,9 +1014,9 @@ of her or of anything else.
 
 
 
-                            CHAPTER V
+#                             CHAPTER V
 
-                    Advice from a Caterpillar
+#                     Advice from a Caterpillar
 
 
   The Caterpillar and Alice looked at each other for some time in
@@ -1208,11 +1208,11 @@ hardly room to open her mouth; but she did it at last, and
 managed to swallow a morsel of the lefthand bit.
 
 
-     *       *       *       *       *       *       *
+#      *       *       *       *       *       *       *
 
-         *       *       *       *       *       *
+#          *       *       *       *       *       *
 
-     *       *       *       *       *       *       *
+#      *       *       *       *       *       *       *
 
   `Come, my head's free at last!' said Alice in a tone of
 delight, which changed into alarm in another moment, when she
@@ -1326,9 +1326,9 @@ down to nine inches high.
 
 
 
-                           CHAPTER VI
+#                            CHAPTER VI
 
-                         Pig and Pepper
+#                          Pig and Pepper
 
 
   For a minute or two she stood looking at the house, and
@@ -1668,9 +1668,9 @@ gone to see the Hatter instead!'
 
 
 
-                           CHAPTER VII
+#                            CHAPTER VII
 
-                         A Mad Tea-Party
+#                          A Mad Tea-Party
 
 
   There was a table set out under a tree in front of the house,
@@ -2027,9 +2027,9 @@ beautiful garden, among the bright flower-beds and the cool fountains.
 
 
 
-                          CHAPTER VIII
+#                           CHAPTER VIII
 
-                   The Queen's Croquet-Ground
+#                    The Queen's Croquet-Ground
 
 
   A large rose-tree stood near the entrance of the garden:  the
@@ -2351,9 +2351,9 @@ looking for it, while the rest of the party went back to the game.
 
 
 
-                           CHAPTER IX
+#                            CHAPTER IX
 
-                     The Mock Turtle's Story
+#                      The Mock Turtle's Story
 
 
   `You can't think how glad I am to see you again, you dear old
@@ -2690,9 +2690,9 @@ very decided tone:  `tell her something about the games now.'
 
 
 
-                            CHAPTER X
+#                             CHAPTER X
 
-                      The Lobster Quadrille
+#                       The Lobster Quadrille
 
 
   The Mock Turtle sighed deeply, and drew the back of one flapper
@@ -3019,9 +3019,9 @@ melancholy words:--
 
 
 
-                           CHAPTER XI
+#                            CHAPTER XI
 
-                      Who Stole the Tarts?
+#                       Who Stole the Tarts?
 
 
   The King and Queen of Hearts were seated on their throne when
@@ -3298,9 +3298,9 @@ of his shrill little voice, the name `Alice!'
 
 
 
-                           CHAPTER XII
+#                            CHAPTER XII
 
-                        Alice's Evidence
+#                         Alice's Evidence
 
 
   `Here!' cried Alice, quite forgetting in the flurry of the
@@ -3597,4 +3597,4 @@ Wonderland of long ago:  and how she would feel with all their
 simple sorrows, and find a pleasure in all their simple joys,
 remembering her own child-life, and the happy summer days.
 
-                             THE END
+#                              THE END
