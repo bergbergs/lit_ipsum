@@ -16,4 +16,6 @@ module LitIpsum
       end
     end
   end
+  # Shorthand Alias
+  Usher = Poe::Usher
 end
