@@ -3,7 +3,7 @@
 module LitIpsum
   class Poe
     class Raven < Base
-      FILENAME = File.join(File.dirname(File.expand_path(__FILE__)), '../../texts/poe/the-raven.txt'
+      FILENAME = File.join(File.dirname(File.expand_path(__FILE__)), '../../texts/poe/the-raven.txt')
   
       class << self
         def sentences(count, max_sentence: 0, filename: FILENAME, repeats: nil)

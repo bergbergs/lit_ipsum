@@ -3,7 +3,7 @@
 module LitIpsum
   class Austen
     class SenseAndSensibility < Base
-      FILENAME = File.join(File.dirname(File.expand_path(__FILE__)), '../../texts/austen/sense-and-sensibility.txt'
+      FILENAME = File.join(File.dirname(File.expand_path(__FILE__)), '../../texts/austen/sense-and-sensibility.txt')
 
       class << self
         def sentences(count, max_sentence: 0, filename: FILENAME, repeats: nil)

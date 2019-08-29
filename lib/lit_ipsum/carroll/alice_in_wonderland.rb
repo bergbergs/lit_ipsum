@@ -3,7 +3,7 @@
 module LitIpsum
   class Carroll
     class AliceInWonderland < Base
-      FILENAME = File.join(File.dirname(File.expand_path(__FILE__)), '../../texts/carroll/alice-in-wonderland.txt'
+      FILENAME = File.join(File.dirname(File.expand_path(__FILE__)), '../../texts/carroll/alice-in-wonderland.txt')
 
       class << self
         def sentences(count, max_sentence: 0, filename: FILENAME, repeats: nil)
