@@ -20,27 +20,46 @@ module LitIpsum
         end
       end
 
-      def sentences(count, max_sentence, filename)
+      def sentences(count, max_sentence:, filename:, repeats:)
         source = max_sentence.zero? ? get_text(filename) : get_text(filename).select { |sentence| sentence.length <= max_sentence }
         raise Error, "Unable to find sentences of length <= #{max_sentence}." if source.empty?
 
         obj = []
+        phrases = []
+        
         count.times do
           sentence = source.sample
           obj << sentence
         end
 
-        obj.join(' ')
+        if !repeats.nil?
+          repeats.times do
+            phrases << obj.join(' ')
+          end
+          phrases.join("\n")
+        else
+          obj.join(' ')
+        end
       end
 
-      def words(count, filename)
+      def words(count, filename:, repeats:)
         source = get_text(filename).select { |sentence| sentence.scan(/\w+/).size <= count }
         obj = []
         loop do
           obj << source.select { |sentence| sentence.scan(/\w+/).size <= count - obj.map { |el| el.scan(/\w+/) }.flatten.length }.sample
           break if obj.map { |el| el.scan(/\w+/) }.flatten.length == count
         end
-        obj.join(' ')
+        
+        phrases = []
+
+        if !repeats.nil?
+          repeats.times do
+            phrases << obj.join(' ')
+          end
+          phrases.join("\n")
+        else
+          obj.join(' ')
+        end
       end
     end
   end
